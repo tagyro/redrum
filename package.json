@@ -1,0 +1,12 @@
+{
+    "name": "redrum",
+    "description": "home automation dashboard",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "dashboard.json",
+            "credentialsFile": "dashboard_cred.json"
+        }
+    }
+}
