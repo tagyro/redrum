@@ -28,3 +28,5 @@ Current features include:
     "node-red-node-ui-table": "0.1.5"
 }
 ```
+
+- [ReverseEngineeredMiLightBluetooth](https://github.com/moosd/ReverseEngineeredMiLightBluetooth) 
